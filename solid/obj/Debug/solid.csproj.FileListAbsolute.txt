@@ -1,0 +1,2 @@
+C:\Users\Dell\Desktop\zpo5\solid\bin\Debug\solid.exe.config
+C:\Users\Dell\Desktop\zpo5\solid\obj\Debug\solid.csprojResolveAssemblyReference.cache
